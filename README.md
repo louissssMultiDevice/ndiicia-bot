@@ -162,9 +162,7 @@ ndicia-md/
 ├── plugins/           # Modular plugins
 ├── database/          # JSON storage
 └── ndicia-session/    # Auth sessions
-
-
----
+```
 
 🌐 Official Network
 
